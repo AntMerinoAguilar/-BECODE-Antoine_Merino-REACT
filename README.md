@@ -22,9 +22,9 @@ React is a powerful library for building modern, interactive web applications. T
 
 The repository is organized as follows:  
 
-- **`01.exo1.FormValidation`**:  
+- **`01.exo1`**:  
   An exercise to implement a fully functional form validation system with real-time feedback and submission display.  
-- **`02.SimpleReactSite`**:  
+- **`Premier-Site-REACT`**:  
   A simple project created to experiment with React fundamentals, such as component creation and state management.  
 
 ## First Steps as a Developer 🚀  
